@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class CustomTheme {
-  static const lightThemeFont = "ComicNeue", darkThemeFont = "Poppins";
+  static const lightThemeFont = 'ComicNeue', darkThemeFont = 'Poppins';
 
   // light theme
   static final lightTheme = ThemeData(
@@ -64,7 +64,7 @@ class CustomTheme {
     ),
   );
 
-  static final pinkThem = ThemeData(
+  static final pinkTheme = ThemeData(
     primaryColor: Colors.pink,
     brightness: Brightness.light,
     scaffoldBackgroundColor: Colors.pink,

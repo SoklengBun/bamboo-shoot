@@ -7,7 +7,7 @@ class ThemeController extends GetxController {
   var themes = [
     CustomTheme.lightTheme,
     CustomTheme.darkTheme,
-    CustomTheme.pinkThem
+    CustomTheme.pinkTheme,
   ];
 
   void toggleTheme() {
