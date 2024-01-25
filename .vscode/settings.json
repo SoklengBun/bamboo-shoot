@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["Cupertino", "overscroll", "screenutil"]
+  "cSpell.words": ["Cupertino", "Getx", "overscroll", "screenutil"],
+  "java.compile.nullAnalysis.mode": "automatic"
 }
